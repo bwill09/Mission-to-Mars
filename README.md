@@ -12,6 +12,8 @@ Python, BeautifulSoup, Pandas, MongoDB, Bootstrap and CSS, Flask
 
 #### Websites Used
 
-[NASA Mars Exploration] ('https://redplanetscience.com') 
+[NASA Mars Exploration]('https://redplanetscience.com') 
+
 [NASA JPL MARS image]('https://spaceimages-mars.com')
+
 [Mars page]('http://space-facts.com/mars/')
